@@ -1,0 +1,13 @@
+# 엑셀 파일 제외 (드라이브에 별도 저장)
+*.xlsx
+*.xls
+*.csv
+
+# 이미지 파일 제외
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# 기타 제외
+*.code-workspace
